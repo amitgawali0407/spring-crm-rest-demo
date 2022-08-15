@@ -2,6 +2,8 @@ CREATE DATABASE  IF NOT EXISTS `web_customer_tracker` /*!40100 DEFAULT CHARACTER
 USE `web_customer_tracker`;
 -- MySQL dump 10.13  Distrib 5.6.13, for osx10.6 (i386)
 --
+-- comment added by amit in remote master branch.
+--
 -- Host: 127.0.0.1    Database: web_customer_tracker
 -- ------------------------------------------------------
 -- Server version	5.6.16
